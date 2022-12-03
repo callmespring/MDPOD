@@ -22,3 +22,6 @@ The order dispatch step:
 <img align="center" src="./graph/MDP.png" alt="drawing" width="700">
 
 Simulation results and comparison against other baseline policies: 
+
+<img align="center" src="./graph/result.png" alt="drawing" width="700">
+
