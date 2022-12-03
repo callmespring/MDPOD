@@ -15,10 +15,10 @@ Illustration of the policy evaluation step:
 
 Pseudocode:
 
-<img align="center" src="pe_pseudocode.png" alt="drawing" width="700">
+<img align="center" src="./graph/pe_pseudocode.png" alt="drawing" width="700">
 
 The order dispatch step:
 
-<img align="center" src="MDP.png" alt="drawing" width="700">
+<img align="center" src="./graph/MDP.png" alt="drawing" width="700">
 
 Simulation results and comparison against other baseline policies: 
