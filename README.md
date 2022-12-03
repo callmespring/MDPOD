@@ -11,7 +11,7 @@ The algorithm consists of two steps:
 
 Illustration of the policy evaluation step:
 
-<img align="center" src="policy_evaluation.png" alt="drawing" width="700">
+<img align="center" src="./graph/policy_evaluation.png" alt="drawing" width="700">
 
 Pseudocode:
 
